@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+[Download my CV in pdf format](../assets/JRCV.pdf)
 <!-- 
 {% include base_path %} -->
 <!-- 
